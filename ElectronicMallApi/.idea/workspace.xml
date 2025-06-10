@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="002f11ea-1bdd-4f50-91ca-29109fde63d9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/ProgramApp/apache-maven-3.9.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2R4HKTC25ylcrWF6H2J7BGO03TN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Even/springbootA015电子商城项目/springbootA015电子商城/代码/ElectronicMallApi - idea/pom.xml" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\WorkSpace\GitWorkSpace\TenShop\resource\ElectronicMall\src\ElectronicMallApi - idea\src\main\java\com\rabbiter\em\config" />
+      <recent name="D:\Work\WorkSpace\GitWorkSpace\TenShop\resource\ElectronicMall\src\ElectronicMallApi - idea\avatar" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rabbiter.em.entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ElectronicMallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ElectronicMallApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbiter.em.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rabbiter.em.ElectronicMallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ElectronicMallApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="002f11ea-1bdd-4f50-91ca-29109fde63d9" name="Changes" comment="" />
+      <created>1686502370397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686502370397</updated>
+      <workItem from="1686502371553" duration="196000" />
+      <workItem from="1686733712712" duration="1278000" />
+      <workItem from="1686836423452" duration="1897000" />
+      <workItem from="1686843632421" duration="463000" />
+      <workItem from="1687238616563" duration="138000" />
+      <workItem from="1687266369014" duration="1009000" />
+      <workItem from="1687510709386" duration="8000" />
+      <workItem from="1687511542393" duration="2000" />
+      <workItem from="1687589575448" duration="1091000" />
+      <workItem from="1687780699252" duration="518000" />
+      <workItem from="1687781443426" duration="659000" />
+      <workItem from="1687857495544" duration="3408000" />
+      <workItem from="1687926704359" duration="379000" />
+      <workItem from="1687966931452" duration="279000" />
+      <workItem from="1689313997214" duration="269000" />
+      <workItem from="1689337356467" duration="30000" />
+      <workItem from="1689399878681" duration="424000" />
+      <workItem from="1689478588188" duration="146000" />
+      <workItem from="1689522081897" duration="16000" />
+      <workItem from="1690953556745" duration="55000" />
+      <workItem from="1690994163250" duration="379000" />
+      <workItem from="1690994602640" duration="26000" />
+      <workItem from="1691054241702" duration="11000" />
+      <workItem from="1691148974782" duration="3158000" />
+      <workItem from="1691195598556" duration="1418000" />
+      <workItem from="1691646923084" duration="60000" />
+      <workItem from="1691670243943" duration="675000" />
+      <workItem from="1691900845920" duration="2339000" />
+      <workItem from="1692028265088" duration="1033000" />
+      <workItem from="1692118838802" duration="510000" />
+      <workItem from="1692194326307" duration="1246000" />
+      <workItem from="1692982037341" duration="674000" />
+      <workItem from="1693017919793" duration="1625000" />
+      <workItem from="1693198769115" duration="863000" />
+      <workItem from="1694512684248" duration="1258000" />
+      <workItem from="1694708359428" duration="628000" />
+      <workItem from="1694711046181" duration="5000" />
+      <workItem from="1694837002785" duration="12000" />
+      <workItem from="1695481538242" duration="1641000" />
+      <workItem from="1695643168910" duration="64000" />
+      <workItem from="1695648172272" duration="23000" />
+      <workItem from="1695652339721" duration="13000" />
+      <workItem from="1695652361893" duration="107000" />
+      <workItem from="1696053740017" duration="491000" />
+      <workItem from="1696054270447" duration="365000" />
+      <workItem from="1696781830848" duration="430000" />
+      <workItem from="1697357156717" duration="2623000" />
+      <workItem from="1697378438583" duration="273000" />
+      <workItem from="1697449972916" duration="1911000" />
+      <workItem from="1697468891896" duration="1948000" />
+      <workItem from="1697561690566" duration="394000" />
+      <workItem from="1697621493070" duration="107000" />
+      <workItem from="1697694793010" duration="339000" />
+      <workItem from="1697802550803" duration="656000" />
+      <workItem from="1697863368885" duration="536000" />
+      <workItem from="1698848340912" duration="918000" />
+      <workItem from="1699188327959" duration="646000" />
+      <workItem from="1699191116999" duration="5000" />
+      <workItem from="1699203143063" duration="503000" />
+      <workItem from="1700484861867" duration="1928000" />
+      <workItem from="1700741691028" duration="2956000" />
+      <workItem from="1700747839307" duration="682000" />
+      <workItem from="1700827191969" duration="75000" />
+      <workItem from="1701090805552" duration="647000" />
+      <workItem from="1702198213045" duration="1019000" />
+      <workItem from="1702272829188" duration="25000" />
+      <workItem from="1702295047579" duration="87000" />
+      <workItem from="1702303053413" duration="209000" />
+      <workItem from="1702390123029" duration="695000" />
+      <workItem from="1702475378599" duration="1236000" />
+      <workItem from="1702550775355" duration="159000" />
+      <workItem from="1702696865429" duration="260000" />
+      <workItem from="1703386239518" duration="57000" />
+      <workItem from="1707143537553" duration="407000" />
+      <workItem from="1732514081797" duration="906000" />
+      <workItem from="1732515185143" duration="181000" />
+      <workItem from="1732515382737" duration="220000" />
+      <workItem from="1732515683927" duration="2533000" />
+      <workItem from="1732601287603" duration="2112000" />
+      <workItem from="1732764833189" duration="828000" />
+      <workItem from="1732870151219" duration="29000" />
+      <workItem from="1733117992646" duration="1340000" />
+      <workItem from="1733120850317" duration="34000" />
+      <workItem from="1733364707202" duration="3281000" />
+      <workItem from="1733446407290" duration="576000" />
+      <workItem from="1733743892713" duration="2765000" />
+      <workItem from="1733753010427" duration="118000" />
+      <workItem from="1733753148238" duration="7505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rabbiter/em/service/CollectService.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
